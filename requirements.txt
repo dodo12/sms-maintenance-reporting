@@ -1,0 +1,7 @@
+# Versions used for the reported results (Python 3.12). Newer versions will likely work but may change numbers slightly.
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+scikit-image==0.26.0
+pillow==12.1.1
+matplotlib==3.10.8

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article (reference to be added upon publication)."
+title: "Confidence-aware, bit-budgeted reporting of maintenance diagnoses over SMS: code and reproduction scripts"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+repository-code: "[repository URL to be added]"
+license: MIT

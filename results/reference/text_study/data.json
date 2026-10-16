@@ -1,0 +1,33 @@
+{
+ "n_train": 502,
+ "n_dev": 62,
+ "n_test": 62,
+ "n_all": 626,
+ "n_classes": 22,
+ "counts": {
+  "Breakdown": 81,
+  "Plugged / choked": 50,
+  "Leaking": 44,
+  "Minor in-service problems": 137,
+  "Structural deficiency": 69,
+  "Noise": 8,
+  "Failure to start on demand": 28,
+  "Vibration": 17,
+  "Overheating": 20,
+  "Fail to function": 20,
+  "Low output": 17,
+  "Electrical": 58,
+  "Failure to stop on demand": 7,
+  "Abnormal instrument reading": 23,
+  "Other": 12,
+  "Fail to close": 1,
+  "Contamination": 8,
+  "High output": 5,
+  "Erratic output": 8,
+  "Failure to rotate": 1,
+  "Spurious stop": 10,
+  "Fail to open": 2
+ },
+ "dup_obs_conflict": 0,
+ "unique_obs": 626
+}
